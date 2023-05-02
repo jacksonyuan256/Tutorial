@@ -30,5 +30,17 @@ Poison Jab
 Aqua Tail
 Spikes
 
+Cofagrigus @ Berry Juice
+Ability: Mummy
+Night Shade
+Will-O-Wisp
+Ally Switch
+--
 
+Emboar @ Charcoal
+Ability: Mold Breaker
+Flame Charge
+Bulldoze
+Curse
+Hammer Arm
 
