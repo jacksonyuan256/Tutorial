@@ -1,6 +1,6 @@
-# Elesa Challenge Mode
+# Challenge Mode
 
-## Triple Battle
+## Elesa Triple Battle
 
 Lanturn @ Sitrus Berry
 Ability: Volt Absorb
